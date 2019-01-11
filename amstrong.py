@@ -1,4 +1,4 @@
-abc = int(input(""))
+abc = int(input("")) #input
 a = abc
 res =0
 while(abc>=1):

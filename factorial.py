@@ -4,5 +4,5 @@ def fact(n):
     else:
         return n*fact(n-1)
         
-n = int(input(""))
+n = int(input("")) #input
 print(fact(n))

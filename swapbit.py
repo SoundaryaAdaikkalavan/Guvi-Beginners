@@ -1,5 +1,5 @@
 a=int(input())
-b=int(input())
+b=int(input())#input
 a=a+b
 b=a-b
 a=a-b

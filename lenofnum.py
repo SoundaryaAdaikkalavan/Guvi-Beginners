@@ -1,2 +1,2 @@
-n=input()
+n=input() #input
 print(len(n))

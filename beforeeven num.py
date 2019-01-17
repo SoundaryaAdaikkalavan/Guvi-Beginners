@@ -1,4 +1,4 @@
-n=int(input())
+n=int(input()) #input
 if(n%2==0):
     print(n)
 else:

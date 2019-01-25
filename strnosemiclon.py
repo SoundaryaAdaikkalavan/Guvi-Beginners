@@ -1,2 +1,2 @@
-s=input()
+s=input()#input
 print(s)

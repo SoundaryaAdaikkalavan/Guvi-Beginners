@@ -1,2 +1,2 @@
-a=input()
+a=input()input
 print(ord(a))

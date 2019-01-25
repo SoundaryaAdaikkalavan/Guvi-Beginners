@@ -1,2 +1,3 @@
 s=input()#input
-print(s)
+print(s)#print
+#string is

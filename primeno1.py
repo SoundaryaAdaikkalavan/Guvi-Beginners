@@ -7,3 +7,4 @@ if(k<=0):
     print("yes")
 else:
     print("no")
+#"yes" or "no"

@@ -1,6 +1,6 @@
 a=input()
-for i in a:
-    b=int(i)
+for i in range(len(a)):
+    b=int(a[i])
     if b%2!=0:
         print(b,end=" ")
    

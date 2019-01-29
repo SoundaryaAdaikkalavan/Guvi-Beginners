@@ -1,8 +1,8 @@
-def fact(n):
-    if(n==1 or n==0):
+def fact(a):
+    if(a==1 or a==0):
         return 1
     else:
-        return n*fact(n-1)
+        return a*fact(a-1)
         
-n = int(input("")) #input
-print(fact(n))
+a = int(input("")) #input
+print(fact(a))

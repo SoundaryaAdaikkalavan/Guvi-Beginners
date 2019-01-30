@@ -1,4 +1,4 @@
-s=input()
+s=input()#input
 a=['Monday','Tuesday','Wednesday','Thrusday','Friday']
 for i in range(0,len(a)):
     if s==a[i]:

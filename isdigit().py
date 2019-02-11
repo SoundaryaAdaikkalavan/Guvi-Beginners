@@ -1,4 +1,4 @@
-s=input()
+s=input()#input
 if s.isdigit():
     print("yes")
 else:

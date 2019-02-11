@@ -1,4 +1,4 @@
-s1=input()
+s1=input()#input
 s=input()
 c=0
 for i in s1.split():

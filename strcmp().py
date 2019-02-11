@@ -1,4 +1,4 @@
-a,b=map(str,input().split())
+a,b=map(str,input().split())#input
 
 if a in b:
     print("yes")

@@ -1,4 +1,4 @@
-s=input()
+s=input()#input
 c=0
 d=0
 for i in s:
